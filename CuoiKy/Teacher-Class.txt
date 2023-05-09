@@ -1,0 +1,9 @@
+        CN1 CN2 DPT  ATTT   DT  KT  Mark QTKD
+THH      6   0   0    6     0   6    12   12
+LNKT     0   10  0    0     6   0    12   6
+NTTH     12  6   6    6     6   6    0    0
+HTT      0   6   12   0     12  6    6    0
+NTH      0   0   0    6     12  18   6    6
+TTH      6   0   12   6     0   0    0    12
+DTK      18  6   6    12    0   0    0    0
+LNTK     0   6   6    6     6   6    6    6

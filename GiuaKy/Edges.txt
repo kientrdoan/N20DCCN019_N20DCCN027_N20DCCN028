@@ -1,0 +1,52 @@
+Thành phố Thủ Đức, Quận 12 
+Thành phố Thủ Đức, Quận Gò Vấp
+Thành phố Thủ Đức, Quận Bình Thạnh 
+Thành phố Thủ Đức, Quận 1
+Thành phố Thủ Đức, Quận 4
+Thành phố Thủ Đức, Quận 7 
+Quận 12, Quận Gò Vấp 
+Quận 12, Quận Tân Bình
+Quận 12, Quận Tân Phú 
+Quận 12, Quận Bình Tân 
+Quận Gò Vấp, Quận Tân Bình
+Quận Gò Vấp, Quận Phú Nhuận
+Quận Gò Vấp, Quận Bình Thạnh 
+Quận Bình Thạnh, Quận Phú Nhuận 
+Quận Bình Thạnh, Quận 1
+Quận 1, Quận Phú Nhuận 
+Quận 1, Quận 3 
+Quận 1, Quận 5 
+Quận 1, Quận 4
+Quận Phú Nhuận, Quận Tân Bình 
+Quận Phú Nhuận, Quận 3 
+Quận Tân Bình, Quận Tân Phú
+Quận Tân Bình, Quận 10 
+Quận Tân Bình, Quận 11 
+Quận Tân Bình, Quận 3
+Quận 3, Quận 10
+Quận 10, Quận 11 
+Quận 10, Quận 5 
+Quận 5, Quận 4 
+Quận 5, Quận 6
+Quận 5, Quận 8
+Quận 5, Quận 11 
+Quận 4, Quận 8 
+Quận 4, Quận 7 
+Quận 11, Quận Tân Phú
+Quận 11, Quận 6 
+Quận Bình Tân, Quận Tân Phú 
+Quận Bình Tân, Quận 6
+Quận Bình Tân, Quận 8 
+Quận Tân Phú, Quận 6 
+Quận 6, Quận 8 
+Quận 7, Huyện Nhà Bè
+Quận 8, Quận 7
+Quận 8, Huyện Nhà Bè 
+Quận 8, Huyện Bình Chánh 
+Huyện Nhà Bè, Huyện Bình Chánh 
+Huyện Nhà Bè, Huyện Cần Giờ 
+Huyện Bình Chánh, Quận Bình Tân
+Quận Bình Tân, Huyện Hóc Môn 
+Huyện Hóc Môn, Huyện Bình Chánh 
+Huyện Hóc Môn, Quận 12
+Huyện Hóc Môn, Huyện Củ Chi

@@ -1,0 +1,10 @@
+WA, NT
+WA, SA
+NT, SA
+NT, Q
+SA, Q
+SA, NSW
+SA, V
+Q, NSW
+NSW, V
+

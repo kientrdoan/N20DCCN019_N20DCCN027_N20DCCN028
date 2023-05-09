@@ -1,0 +1,9 @@
+AG, KG
+AG, CT
+KG, BL
+KG, CM
+KG, CT
+CT, ST
+CT, BL
+BL, CM
+BL, ST
