@@ -1,2 +1,5 @@
-# N20DCCN019_N20DCCN027_N20DCCN028
-Trí Tuệ Nhân Tạo Cuối Kỳ
+#Trí tuệ nhân tạo</br>
+Trương Thái Hoàng - N20DCCN019</br>
+Đoàn Trung Kiên - N20DCCN027</br>
+Lê Ngọc Tuấn Kiệt - N20DCCN028</br>
+EX: 4
